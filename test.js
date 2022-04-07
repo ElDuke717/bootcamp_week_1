@@ -1,0 +1,1 @@
+alert('We\'re reviewing how to set up a git repo');
